@@ -1,0 +1,6 @@
+metric,value
+rf_acc,0.976
+rf_roc,0.9981399330375893
+xgb_acc,0.995
+xgb_roc,0.9998359940957875
+selected_model,XGBoost
