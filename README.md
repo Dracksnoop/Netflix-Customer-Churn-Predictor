@@ -39,7 +39,7 @@
 
 ### **🌐 [Live Demo](https://netflix-customer-churn-predictor.onrender.com/)**
 
-![Demo Screenshot](assets/screenshot_demo.png)
+![Demo Screenshot]<img width="1399" height="695" alt="Image" src="https://github.com/user-attachments/assets/af1598b6-d29d-46fe-b006-4a93ae83689d" />
 
 *Interactive Streamlit dashboard for real-time churn predictions*
 
@@ -382,7 +382,7 @@ Netflix_churn/
 
 If you encounter any bugs or have feature suggestions:
 
-1. 🔍 Navigate to the **[Issues](https://github.com/<your-username>/Netflix_churn/issues)** tab
+1. 🔍 Navigate to the **[Issues](https://github.com/Dracksnoop/Netflix-Customer-Churn-Predictor/issues/new)** tab
 2. 🆕 Click **New Issue**
 3. 📝 Provide:
    - 🐛 Bug description or feature proposal
