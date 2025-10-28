@@ -39,13 +39,12 @@
 
 ### **🌐 [Live Demo](https://netflix-customer-churn-predictor.onrender.com/)**
 
-![Demo Screenshot]<img width="1399" height="695" alt="Image" src="https://github.com/user-attachments/assets/af1598b6-d29d-46fe-b006-4a93ae83689d" />
+![Demo Screenshot - It might take few minutes to load as I'm using free hosting]<img width="1399" height="695" alt="Image" src="https://github.com/user-attachments/assets/af1598b6-d29d-46fe-b006-4a93ae83689d" />
 
 *Interactive Streamlit dashboard for real-time churn predictions*
 
 </div>
 
-> **📸 Note:** Replace `assets/screenshot_demo.png` with an actual screenshot of your deployed Streamlit application showing the input form and prediction output.
 
 ---
 
