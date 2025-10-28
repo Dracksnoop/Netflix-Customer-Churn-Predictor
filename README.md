@@ -159,21 +159,28 @@ graph LR
 ### 🛠️ **Setup Instructions**
 
 </div>
-```bash
+
 # 📥 Clone the repository
+```bash
 git clone https://github.com/<your-username>/Netflix_churn.git
 cd Netflix_churn
+```
 
 # 🐍 Create virtual environment
+```bash
 python -m venv .venv
-
+```
 # ⚡ Activate virtual environment
 # On Windows:
+```bash
 .venv\Scripts\activate
 # On macOS/Linux:
 source .venv/bin/activate
+```
 
 # 📦 Install dependencies
+```bash
+
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
