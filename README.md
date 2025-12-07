@@ -14,7 +14,7 @@
 
 ---
 
-## 📑 Table of ContentsS
+## 📑 Table of Contents
 
 - [🎥 Demo](#-demo)
 - [📊 Overview](#-overview)
